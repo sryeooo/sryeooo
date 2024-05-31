@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-<img src="https://raw.githubusercontent.com/sryeooo/sryeooo/main/KafuuChino.gif" height="250px" />
+<img src="https://raw.githubusercontent.com/sryeooo/sryeooo/main/KafuuChino.gif" height="" />
 <br>
 
 ## ヌルヌル~ ヌルヌル~
