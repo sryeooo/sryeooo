@@ -1,10 +1,10 @@
 ## Hi there 👋
 <div align="center">
-<img src="https://raw.githubusercontent.com/sryeooo/sryeooo/main/KafuuChino.gif" height="" />
+<img src="https://raw.githubusercontent.com/sryeooo/sryeooo/main/gif/KafuuChino.gif" height="" />
 <br>
 
 ## ヌルヌル~ ヌルヌル~
-![](https://raw.githubusercontent.com/sryeooo/sryeooo/main/vscode.svg) 
+![](https://raw.githubusercontent.com/sryeooo/sryeooo/main/pictures/vscode.svg) 
 </div>
 <!--
 **sryeooo/sryeooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
